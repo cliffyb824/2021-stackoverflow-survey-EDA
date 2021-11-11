@@ -22,7 +22,7 @@ The code involves in addition the following Python libraries:
 Usage
 -----
 
-You can run the code line by line to get the out put.
+You can run the code line by line to get the output.
 
 
 Licence
